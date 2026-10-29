@@ -1,0 +1,16 @@
+body {
+    background-color: aliceblue;
+    margin: 0;
+}
+
+#container {
+    display: flex;
+    justify-content: center; 
+}
+
+#container header {
+    background-color: red;
+    width: 100%;
+    height: 75px;
+    text-align: center;
+}
